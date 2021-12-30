@@ -5,4 +5,5 @@
 4. `tsc --init` and configure it
 5. Create webpack.config.js file and configure it
 6. `npm install --save-dev @types/googlemaps`
-7. 
+
+#### App is available online [here](http://138.68.103.93/ts-map-api/). 
